@@ -1,5 +1,5 @@
 ---
-title: New Page
+title: Info Page
 deprecated: false
 hidden: false
 metadata:
