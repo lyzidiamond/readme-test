@@ -1,6 +1,11 @@
 ---
 title: Welcome to Lyzi Test
 hidden: false
+next:
+  pages:
+    - slug: new-page
+      title: Info Page
+      type: basic
 ---
 <Callout icon="📘" theme="info">
   **Template:**  Delete this callout and edit this page with your content and links.
