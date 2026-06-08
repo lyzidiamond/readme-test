@@ -7,9 +7,9 @@ next:
       title: Info Page
       type: basic
 ---
-<Callout icon="📘" theme="info">
-  **Template:**  Delete this callout and edit this page with your content and links.
-</Callout>
+> 📘
+>
+> **Template:**  Delete this callout and edit this page with your content and links.
 
 <Cards>
   {/* Edit the props below to customize these components */}
@@ -20,7 +20,17 @@ next:
   <Card title="Build with AI" href="#" icon="fa-duotone fa-sparkles">Use LLM features to automate your workflow</Card>
 </Cards>
 
-<br />
+<Accordion>
+  <AccordionItem title="Item 1">
+    Content for item 1
+  </AccordionItem>
+  <AccordionItem title="Item 2">
+    Content for item 2
+  </AccordionItem>
+  <AccordionItem title="Item 3">
+    Content for item 3
+  </AccordionItem>
+</Accordion>
 
 ## Recent Releases
 
