@@ -16,18 +16,6 @@ next:
   <Card title="Build with AI" href="#" icon="fa-duotone fa-sparkles">Use LLM features to automate your workflow</Card>
 </Cards>
 
-<Accordion>
-  <AccordionItem title="Item">
-    Content for item 1. d
-  </AccordionItem>
-  <AccordionItem title="Item">
-    Content for item 2
-  </AccordionItem>
-  <AccordionItem title="Item">
-    Content for item 3
-  </AccordionItem>
-</Accordion>
-
 <Accordion title="My Accordion Title" icon="fa-info-circle">
   Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** Ut enim
   ad minim veniam, quis nostrud exercitation ullamco. Excepteur sint
@@ -61,5 +49,19 @@ next:
 
   <Card kind="tile" title="Sync" href="#" icon="fa-duotone fa-code-compare">Connect to a storage provider</Card>
 </Cards>
+
+<Columns layout="auto">
+  <Column>
+    Neque porro quisquam est qui dolorem ipsum quia
+  </Column>
+
+  <Column>
+    *Lorem ipsum dolor sit amet, consectetur adipiscing elit*
+  </Column>
+
+  <Column>
+    > Ut enim ad minim veniam, quis nostrud ullamco
+  </Column>
+</Columns>
 
 <br />
