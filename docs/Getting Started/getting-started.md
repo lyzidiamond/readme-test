@@ -17,13 +17,13 @@ next:
 </Cards>
 
 <Accordion>
-  <AccordionItem title="Item 1">
+  <AccordionItem title="Item">
     Content for item 1. d
   </AccordionItem>
-  <AccordionItem title="Item 2">
+  <AccordionItem title="Item">
     Content for item 2
   </AccordionItem>
-  <AccordionItem title="Item 3">
+  <AccordionItem title="Item">
     Content for item 3
   </AccordionItem>
 </Accordion>
