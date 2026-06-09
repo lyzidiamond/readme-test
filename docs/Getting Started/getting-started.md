@@ -18,7 +18,7 @@ next:
 
 <Accordion>
   <AccordionItem title="Item 1">
-    Content for item 1
+    Content for item 1. d
   </AccordionItem>
   <AccordionItem title="Item 2">
     Content for item 2
