@@ -21,7 +21,7 @@ next:
 <Cards>
   <Card isNew kind="tile" title="V2.0 MIGRATION" href="#" icon="fa-duotone fa-magnifying-glass">EVERYTHING YOU NEED TO UPGRADE</Card>
 
-  <Card kind="tile" title="WEBHOOKS" href="#" icon="fa-duotone fa-bullhorn">REAL-TIME EVENTS ARE NOW AVAILABLE</Card>
+  <Card kind="tile" title="WEBHOOKS" href="#" icon="fa-duotone fa-bullhorn">GET REAL-TIME EVENTS WITH WEBHOOKS</Card>
 
   <Card kind="tile" title="ANDROID SDK" href="#" icon="fa-duotone fa-robot">OUR NATIVE ANDROID LIBRARY IS OUT OF BETA</Card>
 </Cards>
