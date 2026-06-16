@@ -46,15 +46,15 @@ next:
 
 <Columns layout="auto">
   <Column>
-    Neque porro quisquam est qui dolorem ipsum quia
+    Start with the quick start guide to set up your first project.
   </Column>
 
   <Column>
-    *Lorem ipsum dolor sit amet, consectetur adipiscing elit*
+    *Explore the API reference when you are ready to build an integration.*
   </Column>
 
   <Column>
-    > Ut enim ad minim veniam, quis nostrud ullamco
+    > Review common issues if you need help troubleshooting your setup.
   </Column>
 </Columns>
 
