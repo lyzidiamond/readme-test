@@ -8,53 +8,57 @@ next:
       type: basic
 ---
 <Cards>
-  {/* Edit the props below to customize these components */}
-  <Card title="Quick Start" href="#" icon="fa-duotone fa-rocket-launch">Learn how to get started with our product</Card>
+  {/* EDIT THE PROPS BELOW TO CUSTOMIZE THESE COMPONENTS */}
+  <Card title="QUICK START" href="#" icon="fa-duotone fa-rocket-launch">LEARN HOW TO GET STARTED WITH OUR PRODUCT</Card>
 
-  <Card title="API Reference" href="#" icon="fa-duotone fa-code-simple">Explore endpoints and build your integration</Card>
+  <Card title="API REFERENCE" href="#" icon="fa-duotone fa-code-simple">EXPLORE ENDPOINTS AND BUILD YOUR INTEGRATION</Card>
 
-  <Card title="Build with AI" href="#" icon="fa-duotone fa-sparkles">Use LLM features to automate your workflow</Card>
+  <Card title="BUILD WITH AI" href="#" icon="fa-duotone fa-sparkles">USE LLM FEATURES TO AUTOMATE YOUR WORKFLOW</Card>
 </Cards>
 
-## Recent Releases
+## RECENT RELEASES
 
 <Cards>
-  <Card isNew kind="tile" title="v2.0 Migration" href="#" icon="fa-duotone fa-magnifying-glass">Everything you need to upgrade</Card>
+  <Card isNew kind="tile" title="V2.0 MIGRATION" href="#" icon="fa-duotone fa-magnifying-glass">EVERYTHING YOU NEED TO UPGRADE</Card>
 
-  <Card kind="tile" title="Webhooks" href="#" icon="fa-duotone fa-bullhorn">Real-time events are now available</Card>
+  <Card kind="tile" title="WEBHOOKS" href="#" icon="fa-duotone fa-bullhorn">REAL-TIME EVENTS ARE NOW AVAILABLE</Card>
 
-  <Card kind="tile" title="Android SDK" href="#" icon="fa-duotone fa-robot">Our native Android library is out of beta</Card>
+  <Card kind="tile" title="ANDROID SDK" href="#" icon="fa-duotone fa-robot">OUR NATIVE ANDROID LIBRARY IS OUT OF BETA</Card>
 </Cards>
 
 <br />
 
-## The Basics
+## THE BASICS
 
 <Cards>
-  <Card kind="tile" title="Customize" href="#" icon="fa-duotone fa-brush">Style the widget to match your brand</Card>
+  <Card kind="tile" title="CUSTOMIZE" href="#" icon="fa-duotone fa-brush">STYLE THE WIDGET TO MATCH YOUR BRAND</Card>
 
-  <Card kind="tile" title="Integrations" href="#" icon="fa-duotone fa-arrow-down-left-and-arrow-up-right-to-center">Connect with third-party services</Card>
+  <Card kind="tile" title="INTEGRATIONS" href="#" icon="fa-duotone fa-arrow-down-left-and-arrow-up-right-to-center">CONNECT WITH THIRD-PARTY SERVICES</Card>
 
-  <Card kind="tile" title="CLI" href="#" icon="fa-duotone fa-terminal">Manage resources from your terminal</Card>
+  <Card kind="tile" title="CLI" href="#" icon="fa-duotone fa-terminal">MANAGE RESOURCES FROM YOUR TERMINAL</Card>
 
-  <Card kind="tile" title="Security" href="" icon="fa-duotone fa-shield-dog">Learn how we secure your data</Card>
+  <Card kind="tile" title="SECURITY" href="" icon="fa-duotone fa-shield-dog">LEARN HOW WE SECURE YOUR DATA</Card>
 
-  <Card kind="tile" title="Common Issues" href="" icon="fa-duotone fa-file-circle-info">Troubleshoot common issues</Card>
+  <Card kind="tile" title="COMMON ISSUES" href="" icon="fa-duotone fa-file-circle-info">TROUBLESHOOT COMMON ISSUES</Card>
 
-  <Card kind="tile" title="Sync" href="#" icon="fa-duotone fa-code-compare">Connect to a storage provider</Card>
+  <Card kind="tile" title="SYNC" href="#" icon="fa-duotone fa-code-compare">CONNECT TO A STORAGE PROVIDER</Card>
 </Cards>
+
+<Accordion title="NEXT STEPS" icon="fa-duotone fa-circle-info">
+  START WITH QUICK START, EXPLORE THE API REFERENCE, AND REVIEW COMMON ISSUES WHEN YOU NEED HELP TROUBLESHOOTING YOUR SETUP.
+</Accordion>
 
 <Columns layout="auto">
   <Column>
-    Start with the quick start guide to set up your first project.
+    START WITH THE QUICK START GUIDE TO SET UP YOUR FIRST PROJECT.
   </Column>
 
   <Column>
-    *Explore the API reference when you are ready to build an integration.*
+    *EXPLORE THE API REFERENCE WHEN YOU ARE READY TO BUILD AN INTEGRATION.*
   </Column>
 
   <Column>
-    > Review common issues if you need help troubleshooting your setup.
+    > REVIEW COMMON ISSUES IF YOU NEED HELP TROUBLESHOOTING YOUR SETUP.
   </Column>
 </Columns>
 
