@@ -1,5 +1,11 @@
-# Linter
-## An AI-powered tool for checking page content against your own style guide.
+---
+title: Linter
+excerpt: An AI-powered tool for checking page content against your own style guide.
+deprecated: false
+hidden: false
+metadata:
+  robots: index
+---
 
 The Linter automates content validation by checking documentation against your company’s style guide and established writing standards. It streamlines the manual review process writers typically perform with external tools.
 
