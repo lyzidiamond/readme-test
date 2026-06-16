@@ -7,4 +7,4 @@ metadata:
 ---
 <user>
 
-/
+{user.user}
