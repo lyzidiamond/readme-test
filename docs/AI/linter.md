@@ -31,8 +31,8 @@ The configuration page has three sections: Style Guide, Errors, and Warnings.
 
 - **Style Guide:** a description of your content style guide. You can include anything in this section, from voice and tone to specific word choice to code sample formatting. The rules and guidance in this section are what the Linter uses to generate your Style Guide Score.
 <!-- I'm providing some subjective guidance here (include errors in style guide for sure vs. include warnings if you want) as a reflection of the feature as it works as of June 2026, where the assessment doesn't include Errors in the score. I personally think Errors should be included, which is why I'm suggesting it here. I should talk to product and decide if this was a deliberate decision or not. -->
-- **Errors:** style rules that _cannot_ be broken. The Errors section can be used to identify things like miscapitalization, incorrect code formatting, and placeholder text. This section should be a subset of the rules defined in the Style Guide section above so they show up as part of the overall score.
-- **Warnings:** style rule violations you want to point out specifically, but don’t necessarily need to be changed. Add these rules to the Style Guide section if you want them to be included 
+-- **Errors:** style rules that your documentation must follow. Use the Errors section to identify things like miscapitalization, incorrect code formatting, and placeholder text. Include these rules in the Style Guide section above so they show up as part of the overall score.
+- **Warnings:** style rule violations you want to point out specifically, but don’t require changes. Add these rules to the Style Guide section if you want the Linter to include them 
 
 
 
