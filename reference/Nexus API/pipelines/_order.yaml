@@ -1,0 +1,6 @@
+- listpipelines
+- createpipeline
+- getpipeline
+- deletepipeline
+- listruns
+- triggerrun
